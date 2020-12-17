@@ -1,0 +1,6 @@
+OBJECT_BASE 2119188.btg
+OBJECT SNVS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -50.448820 -1.640556 13.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -50.438098 -1.631952 14.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -50.445610 -1.639072 14.4 0.00
+OBJECT_SIGN {@L}A{@R}06-24{@@,safety,@L}A -50.446464 -1.639758 13.6 37.88 3

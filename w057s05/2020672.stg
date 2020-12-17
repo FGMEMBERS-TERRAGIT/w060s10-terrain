@@ -1,0 +1,5 @@
+OBJECT_BASE 2020672.btg
+OBJECT SIXM.btg
+OBJECT_SHARED Models/Airport/windsock.xml -56.920637 -4.972487 96.6 0.00
+OBJECT SJIY.btg
+OBJECT_SHARED Models/Airport/windsock.xml -56.927015 -4.979362 91.6 0.00

@@ -1,0 +1,9 @@
+OBJECT_BASE 2020817.btg
+OBJECT SWPI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -56.782201 -2.677136 19.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -56.772722 -2.669692 20.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -56.773242 -2.670386 20.2 0.00
+OBJECT_SIGN {no-entry,hazard,no-entry} -56.771383 -2.667987 19.6 271.09 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -56.771379 -2.668111 19.7 271.09 3
+OBJECT_SIGN {@L}A{@R}RWY24{@@,@L}A{@Y}RAMP{^u} -56.771266 -2.668385 19.9 41.91 3
+OBJECT_SIGN {@L}A{@R}RWY24{@@,@L}A{@Y}RAMP{^u} -56.771436 -2.668536 19.9 41.91 3
